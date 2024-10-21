@@ -27,8 +27,9 @@ The Jupyter notebook in this repository contains code to:
 ## Usage
 
 1. Clone this repository
-2. Install the required libraries
-3. Open and run the Jupyter notebook
+2. Install the required libraries      `pip install pandas scikit-learn nltk`
+
+4. Open and run the Jupyter notebook
 
 The notebook walks through the full process from data loading to model evaluation and testing.
 
@@ -56,6 +57,4 @@ Potential areas for improvement:
 - Collect more training data
 - Implement cross-validation
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
